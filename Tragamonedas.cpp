@@ -1,6 +1,6 @@
 /* 
-		Nombre: 									Matricula: 
-			- Alan Fernando Carlos Flores			223199			
+		Nombre: 									
+			- Alan Fernando Carlos Flores			
 */
 #include <iostream>
 #include <time.h>
